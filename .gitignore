@@ -1,3 +1,4 @@
+*_session.json
 *.swp
 config.ini
 .venv/

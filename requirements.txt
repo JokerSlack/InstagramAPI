@@ -1,8 +1,10 @@
 annotated-types==0.7.0
 certifi==2025.4.26
 charset-normalizer==3.4.2
+configparser==7.2.0
 idna==3.10
 instagrapi==2.1.5
+pillow==11.2.1
 pycryptodomex==3.23.0
 pydantic==2.11.5
 pydantic_core==2.33.2
